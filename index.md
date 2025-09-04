@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Alan Njuguna's First CS193 Homework
+
+- I like the chill and young professors.
+- I like the class environment.
+- I like the energy in the class.
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
